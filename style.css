@@ -101,6 +101,7 @@ ul li a:hover {
 
 .menu {
   display: none;
+  width: 3rem;
 }
 
 @media (max-width: 790px) {
