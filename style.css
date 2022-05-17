@@ -119,10 +119,14 @@ ul li a:hover {
   }
 
   .navbar {
-    /* display: none; */
+    display: none;
+  }
+
+  .navbar.active {
     position: absolute;
     top: 6rem;
     right: 1.5rem;
+    display: block;
   }
 
   .navbar ul {
